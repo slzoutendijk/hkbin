@@ -24,7 +24,7 @@ feasible for the number of velocity measurements currently available for
 ultra-faint dwarf galaxies.  However, from the statistics side, implementing
 estimators for these higher moments should be possible.  If you have a use for
 these and are willing to dig into a mathematical statistics paper from 1937,
-please file an issue or [contact me][#contact]!
+please file an issue or [contact me](#contact)!
 
 The drawback of the new algorithm is that it is possible to obtain negative,
 unphysical, estimates of the intrinsic velocity dispersion.  This is due to the
