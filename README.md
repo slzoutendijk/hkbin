@@ -84,7 +84,7 @@ hkbin is based on [pyGravSphere][] and re-uses much of its code.  If you
 publish a scientific work using hkbin, please cite the paper introducing hkbin
 as well as the (py)GravSphere papers:
 
-[Zoutendijk et al. (2021, `arXiv:2101.00253`)](https://ui.adsabs.harvard.edu/abs/2021arXiv210100253Z/abstract)
+[Zoutendijk et al. (2021, A&A, 651, A80)](https://ui.adsabs.harvard.edu/abs/2021A%26A...651A..80Z/abstract)
 
 [Read & Steger (2017, MNRAS, 471, 4541)](https://ui.adsabs.harvard.edu/abs/2017MNRAS.471.4541R/abstract)
 
